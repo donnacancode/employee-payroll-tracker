@@ -1,27 +1,13 @@
 # Employee Payroll Tracker
 
 ## Description
--
+This form allows the user to easily enter an employee's first name, last name, and salary.  The user can pull the average salary from the data entered, and further, can pull a random employee from the data entered.  
 
 ## Getting Started
-Dependencies
-Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-ex. Windows 10
-Installing
-How/where to download your program
-Any modifications needed to be made to files/folders
-Executing program
-How to run the program
-Step-by-step bullets
-code blocks for commands
-Help
-Any advise for common problems or issues.
-command to run if program contains helper info
+This is a simple application that only requires the typed entry of an employee's first name, last name, and salary.  Once an employee has these three pieces of data in the system, the user is prompted to enter additional employees.  The user can continue to enter employees until there are no more to add.
+
 ## Authors
 Created by Donna Burns, @donnacancode
 
 ## License
 This project is licensed under the [MIT] License - see the LICENSE.md file for details
-
-## Acknowledgments
-Inspiration, code snippets, etc.
